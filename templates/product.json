@@ -261,25 +261,30 @@
         "bg-color": "#fceadc"
       }
     },
-    "3d8cbd23-153b-4970-9ecb-7f3332b05c60": {
-      "type": "text-and-image",
+    "text_columns_QHpb8C": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_3FH4e7": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/a-photorealistic-image-of-a-minimalist-f_mp-Aa8ErQ0S-rb3nVJSwmQ_vx6w_j9uQ_mLUdJ4AjUkyg.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "CLOSURE SALE",
+            "text": "<p>Sadly, we’re closing our store… 💔 For many years, we’ve poured our hearts into curating timeless pieces that offer effortless style and everyday comfort. Creating a space where fashion and community come together. Every item we've chosen has been part of our journey, and we’ve truly cherished every moment spent with our wonderful customers.</p><p>Although we’re saying goodbye, we still have a collection of high-quality pieces we'd love to share with you one last time. We’re offering huge discounts of up to 70% across a wide range of styles!</p><p>Thank you for being a part of our story.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_3FH4e7"
+      ],
       "settings": {
-        "image": "shopify://shop_images/a-photorealistic-image-of-a-minimalist-f_mp-Aa8ErQ0S-rb3nVJSwmQ_vx6w_j9uQ_mLUdJ4AjUkyg.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "",
-        "title": "CLOSURE SALE",
-        "text": "<p>Sadly, we’re closing our store… 💔 For many years, we’ve poured our hearts into curating timeless pieces that offer effortless style and everyday comfort—creating a space where fashion and community come together. Every item we've chosen has been part of our journey, and we’ve truly cherished every moment spent with our wonderful customers.</p><p>Although we’re saying goodbye, we still have a collection of high-quality pieces we'd love to share with you one last time. We’re offering huge discounts of up to 70% across a wide range of styles!</p><p>Thank you for being a part of our story.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
+        "title": "",
+        "align_text": "center",
+        "divider": false
       }
     },
     "sub": {
@@ -698,7 +703,7 @@
     "main",
     "41b75bbb-8c34-4dbf-8a6b-bfb03ca94d34",
     "6d97ddc6-c989-459f-80bb-f7f81d55b37e",
-    "3d8cbd23-153b-4970-9ecb-7f3332b05c60",
+    "text_columns_QHpb8C",
     "sub",
     "text-and-image2",
     "d9532001-89f4-45fe-a56a-20a2958c1296",
