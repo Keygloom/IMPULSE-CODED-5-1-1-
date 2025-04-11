@@ -47,7 +47,7 @@
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "<b>summer sale ends today</b>",
+            "text": "summer sale ends today",
             "link_text": "UP TO 50% OFF",
             "link": ""
           }
