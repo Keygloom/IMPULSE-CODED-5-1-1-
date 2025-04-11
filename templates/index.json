@@ -15,16 +15,18 @@
         "slideshow-0": {
           "type": "image",
           "settings": {
-            "top_subheading": "Up to 50% OFF",
-            "title": "SUMMER SALE",
+            "top_subheading": "Up to 70% OFF",
+            "title": "CLOSURE SALE",
             "title_size": 80,
             "subheading": "",
             "link": "shopify://collections",
             "link_text": "Shop now",
             "link_2": "shopify://collections/herr",
             "link_text_2": "",
-            "color_accent": "#f87c56",
+            "color_accent": "#2e960a",
             "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/a-photorealistic-image-of-a-minimalist-f_mp-Aa8ErQ0S-rb3nVJSwmQ_vx6w_j9uQ_mLUdJ4AjUkyg.jpg",
+            "image_mobile": "shopify://shop_images/a-photorealistic-image-of-a-minimalist-f_mp-Aa8ErQ0S-rb3nVJSwmQ_vx6w_j9uQ_mLUdJ4AjUkyg.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 24
           }
