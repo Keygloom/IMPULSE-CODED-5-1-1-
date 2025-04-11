@@ -148,25 +148,24 @@
         },
         "371c5405-64f7-443e-9e8e-42112a8b03ec": {
           "type": "custom",
+          "disabled": true,
           "settings": {
             "code": "{% render 'kopstorm-snippet-7' %}"
           }
         },
         "tab": {
           "type": "tab",
-          "disabled": true,
           "settings": {
-            "title": "Gratis verzending",
-            "content": "<p>Omdat wij het belangrijk vinden om de kosten zo laag mogelijk te houden voor u, bieden wij altijd gratis levering aan binnen Nederland en België.</p>",
+            "title": "Free shipping",
+            "content": "<p>Because we think it is important to keep your costs as low as possible, we always offer free shipping within Australia.<br/></p>",
             "page": ""
           }
         },
         "6fbafccd-e300-4684-a364-9c3fb056e3f9": {
           "type": "tab",
-          "disabled": true,
           "settings": {
-            "title": "30 dagen retourneren",
-            "content": "<p>Het kan natuurlijk voorkomen dat u niet de juiste maat hebt ontvangen of dat het niet helemaal naar wens is. Geen zorgen! Binnen 30 dagen kunt u uw retour aanmelden.</p>",
+            "title": "24/7 customer service",
+            "content": "<p><strong>Our customer service team is available 24/7 to assist with any questions or concerns.</strong> Whether you need product advice or assistance with your order, we're here to help.</p><p>Feel free to reach out – we're always happy to support you!</p>",
             "page": ""
           }
         },
@@ -181,10 +180,9 @@
         },
         "befcce6d-f190-48d0-8d20-6d122074ac1f": {
           "type": "tab",
-          "disabled": true,
           "settings": {
-            "title": "veilig betalen",
-            "content": "<p>Wij maken gebruik van de meest bekende betalingsproviders van Nederland en België. Bij ons kunt u betalen met iDeal, Bancontact en Creditcard (Visa, MasterCard, American Express en Maestro).</p>",
+            "title": "Not satisfied?",
+            "content": "<p>Then you get your money back! We stand behind our products 100%, which is why we offer a \"money back guarantee\": 30 days after receiving the product you have the right to return it.</p>",
             "page": ""
           }
         }
