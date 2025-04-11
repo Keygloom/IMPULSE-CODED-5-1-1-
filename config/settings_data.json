@@ -82,6 +82,7 @@
     "share_twitter": false,
     "share_pinterest": false,
     "favicon": "shopify://shop_images/Scherm_afbeelding_2024-02-13_om_21.09.42.png",
+    "search_enable": true,
     "show_breadcrumbs": false,
     "checkout_logo_image": "shopify://shop_images/Beige_Thin_Lined_Linkedin_Banner_40_701b0572-a53b-40b7-a1a9-fd5adc754964.png",
     "checkout_logo_position": "center",
