@@ -315,68 +315,6 @@
         "lazyload_images": true
       }
     },
-    "d9532001-89f4-45fe-a56a-20a2958c1296": {
-      "type": "new-testimonials",
-      "blocks": {
-        "d417774f-ed7a-4535-96fb-2f53334f17a5": {
-          "type": "Review",
-          "settings": {
-            "days": "Unique",
-            "review": "The quality of the shirt is excellent, delivery was also fast",
-            "author": "John (via instagram)"
-          }
-        },
-        "template--20276576125266__d9532001-89f4-45fe-a56a-20a2958c1296-Review-1": {
-          "type": "Review",
-          "settings": {
-            "days": "The best",
-            "review": "Ordered several pants, very happy with my purchase",
-            "author": "Noah (via Facebook)"
-          }
-        },
-        "57efeece-382f-47a2-b0f2-ae9f40b516e4": {
-          "type": "Review",
-          "settings": {
-            "days": "Nice",
-            "review": "Nice quality, fast delivery and good customer service",
-            "author": "Mia (via e-mail)"
-          }
-        },
-        "1a48d583-3359-427f-b6bd-7e285077eaa7": {
-          "type": "Review",
-          "settings": {
-            "days": "Fast",
-            "review": "Super fast delivery and it was exactly as described. Definitely going to order here more often!",
-            "author": "Emma (via Facebook)"
-          }
-        },
-        "d61a113a-29fb-4734-b919-847049c24ca9": {
-          "type": "Review",
-          "settings": {
-            "days": "Quality",
-            "review": "The bag was exactly what I wanted and had no issues with the packages and quality. I am overall very pleased with my experience and will order from them again!",
-            "author": "James (via Facebook)"
-          }
-        },
-        "30879f9c-bcd8-406c-8fd7-dc9cf67cdd2c": {
-          "type": "Review",
-          "settings": {
-            "days": "Good Service",
-            "review": "The order arrived quickly, however, the size was too small. Within no time I received the new size and it fit perfectly. Thanks Zorano for the good service!",
-            "author": "Elliot (via Instagram)"
-          }
-        }
-      },
-      "block_order": [
-        "d417774f-ed7a-4535-96fb-2f53334f17a5",
-        "template--20276576125266__d9532001-89f4-45fe-a56a-20a2958c1296-Review-1",
-        "57efeece-382f-47a2-b0f2-ae9f40b516e4",
-        "1a48d583-3359-427f-b6bd-7e285077eaa7",
-        "d61a113a-29fb-4734-b919-847049c24ca9",
-        "30879f9c-bcd8-406c-8fd7-dc9cf67cdd2c"
-      ],
-      "settings": {}
-    },
     "featured_collection_zRnJ6y": {
       "type": "featured-collection",
       "settings": {
@@ -706,7 +644,6 @@
     "text_columns_QHpb8C",
     "sub",
     "text-and-image2",
-    "d9532001-89f4-45fe-a56a-20a2958c1296",
     "featured_collection_zRnJ6y",
     "testimonials",
     "product-recommendations",
