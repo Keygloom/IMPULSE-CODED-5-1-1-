@@ -391,15 +391,6 @@
     "3a7043b2-b960-4ba8-b429-94303cb61936": {
       "type": "testimonials",
       "blocks": {
-        "template--19311832006994__3a7043b2-b960-4ba8-b429-94303cb61936-testimonial-1": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>My order arrived quickly and the quality was better than expected!</p>",
-            "author": "Jennifer",
-            "author_info": "Auckland, NZ"
-          }
-        },
         "template--19311832006994__3a7043b2-b960-4ba8-b429-94303cb61936-testimonial-2": {
           "type": "testimonial",
           "settings": {
@@ -415,7 +406,7 @@
             "icon": "5-stars",
             "testimonial": "<p>The sweater is exactly as described. Will definitely order again</p>",
             "author": "Emely",
-            "author_info": "Queenstown, NZ"
+            "author_info": "Adelaide, AUS"
           }
         },
         "template--19311832006994__3a7043b2-b960-4ba8-b429-94303cb61936-testimonial-4": {
@@ -438,7 +429,6 @@
         }
       },
       "block_order": [
-        "template--19311832006994__3a7043b2-b960-4ba8-b429-94303cb61936-testimonial-1",
         "template--19311832006994__3a7043b2-b960-4ba8-b429-94303cb61936-testimonial-2",
         "template--19311832006994__3a7043b2-b960-4ba8-b429-94303cb61936-testimonial-3",
         "template--19311832006994__3a7043b2-b960-4ba8-b429-94303cb61936-testimonial-4",
