@@ -77,7 +77,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "BESTSELLERS",
-        "home_featured_products": "bestsellers-2",
+        "home_featured_products": "bestsellers",
         "per_row": 4,
         "rows": 1,
         "mobile_scrollable": true,
