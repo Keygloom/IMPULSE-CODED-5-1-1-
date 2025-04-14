@@ -76,7 +76,7 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Women",
+        "title": "BESTSELLERS",
         "home_featured_products": "bestsellers-2",
         "per_row": 4,
         "rows": 1,
@@ -96,8 +96,60 @@
         "speed": 200
       }
     },
+    "featured_collections_HEgajF": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_UfJRnb": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "Women",
+            "focal_point": "center center"
+          }
+        },
+        "collection_QmdQaf": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "Men",
+            "focal_point": "center center"
+          }
+        },
+        "collection_mCnHwA": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "collection_4CFPGW": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "collection_UfJRnb",
+        "collection_QmdQaf",
+        "collection_mCnHwA",
+        "collection_4CFPGW"
+      ],
+      "settings": {
+        "title": "Julie & Mark Picks",
+        "divider": false,
+        "per_row": 4,
+        "enable_gutter": true
+      }
+    },
     "580bc108-8f79-4c00-b080-103cccb091ef": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Men",
         "home_featured_products": "manner",
@@ -364,6 +416,7 @@
     "rich-text",
     "featured-collection",
     "scrolling_text_i6QHr4",
+    "featured_collections_HEgajF",
     "580bc108-8f79-4c00-b080-103cccb091ef",
     "3af7d296-2edb-4027-8a28-7b44e39c1b8f",
     "723a8f77-4c0d-4ef9-86de-d888090c48de",
