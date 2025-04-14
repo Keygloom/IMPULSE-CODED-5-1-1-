@@ -110,7 +110,7 @@
         "collection_QmdQaf": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "mens-collection",
             "title": "Men",
             "focal_point": "center center"
           }
