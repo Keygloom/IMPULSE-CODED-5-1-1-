@@ -452,41 +452,47 @@
         "color_text": "#1c1d1d"
       }
     },
-    "9640169b-14c8-476e-9b97-547fdd8772fc": {
-      "type": "newsletter",
+    "text_with_icons_9ragLj": {
+      "type": "text-with-icons",
       "blocks": {
-        "template--19285363753298__9640169b-14c8-476e-9b97-547fdd8772fc-16894322269518c2c1-0": {
-          "type": "title",
+        "text_block_VjHREp": {
+          "type": "text_block",
           "settings": {
-            "title": "Get the latest trends and discounts",
-            "heading_size": "h2"
+            "icon": "shield",
+            "title": "30 DAY MONEY-BACK GUARANTEE",
+            "text": "<p>Shop with confidence at Julie & Mark Melbourne! Enjoy our 30-day money-back guarantee. Simply reach out to us at support@juliemark-melbourne.com</p>"
           }
         },
-        "template--19285363753298__9640169b-14c8-476e-9b97-547fdd8772fc-16894322269518c2c1-1": {
-          "type": "text",
+        "text_block_terYYF": {
+          "type": "text_block",
           "settings": {
-            "text": "<p>Sign in and get the latest trends and updates</p>"
+            "icon": "chat",
+            "title": "24/7 CUSTOMER SERVICE",
+            "text": "<p>If you have any questions, feedback, or concerns about your order, no worries! Our customer support team is always ready to help.</p>"
           }
         },
-        "template--19285363753298__9640169b-14c8-476e-9b97-547fdd8772fc-16894322269518c2c1-2": {
-          "type": "form",
-          "settings": {}
+        "text_block_9KQbrT": {
+          "type": "text_block",
+          "settings": {
+            "icon": "truck",
+            "title": "FREE SHIPPING",
+            "text": "<p>Free shipping Australia-wide—<strong>just for today!</strong></p>"
+          }
         }
       },
       "block_order": [
-        "template--19285363753298__9640169b-14c8-476e-9b97-547fdd8772fc-16894322269518c2c1-0",
-        "template--19285363753298__9640169b-14c8-476e-9b97-547fdd8772fc-16894322269518c2c1-1",
-        "template--19285363753298__9640169b-14c8-476e-9b97-547fdd8772fc-16894322269518c2c1-2"
+        "text_block_VjHREp",
+        "text_block_terYYF",
+        "text_block_9KQbrT"
       ],
       "settings": {
+        "title": "",
         "align_text": "center",
-        "image_width": "33",
-        "image_mask": "none",
-        "image_position": "right",
-        "color_background": "#ffffff",
-        "color_text": "#000000",
-        "top_padding": true,
-        "bottom_padding": true
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
       }
     }
   },
@@ -506,6 +512,6 @@
     "974e4b1e-383b-4712-abad-44cfeb85e568",
     "background_image_text_4GyRpJ",
     "3a7043b2-b960-4ba8-b429-94303cb61936",
-    "9640169b-14c8-476e-9b97-547fdd8772fc"
+    "text_with_icons_9ragLj"
   ]
 }

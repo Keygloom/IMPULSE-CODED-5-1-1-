@@ -11,6 +11,44 @@
   "type": "footer",
   "name": "t:sections.footer-group.name",
   "sections": {
+    "newsletter_PXQ96D": {
+      "type": "newsletter",
+      "blocks": {
+        "title_LdkHr7": {
+          "type": "title",
+          "settings": {
+            "title": "Sign up and save",
+            "heading_size": "h2"
+          }
+        },
+        "text_QLQ4GU": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.</p>"
+          }
+        },
+        "form_LHpmdL": {
+          "type": "form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title_LdkHr7",
+        "text_QLQ4GU",
+        "form_LHpmdL"
+      ],
+      "disabled": true,
+      "settings": {
+        "align_text": "center",
+        "image_width": "33",
+        "image_mask": "none",
+        "image_position": "right",
+        "color_background": "#f9f9f9",
+        "color_text": "#1c1d1d",
+        "top_padding": true,
+        "bottom_padding": true
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -113,6 +151,7 @@
     }
   },
   "order": [
+    "newsletter_PXQ96D",
     "footer",
     "footer-promotions"
   ]
