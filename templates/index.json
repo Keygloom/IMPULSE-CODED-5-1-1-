@@ -298,14 +298,15 @@
       "settings": {
         "subtitle": "over 20.000+",
         "title": "Happy Customers",
-        "text": "<p>Our clothing brand takes pride in serving over 20,000 satisfied customers, each finding joy and confidence in our products.</p>",
+        "text": "<p>We take pride in serving over 20,000 satisfied customers, each finding joy and confidence in our products.</p>",
         "button_label": "",
         "button_link": "",
+        "image": "shopify://shop_images/Woman_from_shopping_raids_on_promotional_campaign.png",
         "layout": "left",
         "height": 550,
         "framed": true,
         "parallax": true,
-        "parallax_direction": "top",
+        "parallax_direction": "left",
         "lazyload_images": true
       }
     },
