@@ -96,6 +96,83 @@
         "speed": 200
       }
     },
+    "rich_text_mcG7ER": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_yPUjXx": {
+          "type": "heading",
+          "settings": {
+            "title": "Julie & Mark Picks"
+          }
+        }
+      },
+      "block_order": [
+        "heading_yPUjXx"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "promo_grid_qVR8dU": {
+      "type": "promo-grid",
+      "blocks": {
+        "advanced_Eg9GQn": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "",
+            "heading": "Women's sale",
+            "textarea": "NOW UP TO 70% OFF",
+            "cta_text1": "Shop NOW",
+            "cta_link1": "shopify://collections/womens-collection",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify://shop_images/vrouw_logo_1.jpg",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": true
+          }
+        },
+        "advanced_aEtbtC": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "",
+            "heading": "MEN'S SALE",
+            "textarea": "NOW UP TO 70% OFF",
+            "cta_text1": "Shop NOW",
+            "cta_link1": "",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify://shop_images/smiley-man-with-sunglasses-having-coffee-outdoors-city_23-2148682636.jpg",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": true
+          }
+        }
+      },
+      "block_order": [
+        "advanced_Eg9GQn",
+        "advanced_aEtbtC"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": true,
+        "lazyload_images": true
+      }
+    },
     "featured_collections_HEgajF": {
       "type": "featured-collections",
       "blocks": {
@@ -140,6 +217,7 @@
         "collection_mCnHwA",
         "collection_4CFPGW"
       ],
+      "disabled": true,
       "settings": {
         "title": "Julie & Mark Picks",
         "divider": false,
@@ -417,6 +495,8 @@
     "rich-text",
     "featured-collection",
     "scrolling_text_i6QHr4",
+    "rich_text_mcG7ER",
+    "promo_grid_qVR8dU",
     "featured_collections_HEgajF",
     "580bc108-8f79-4c00-b080-103cccb091ef",
     "3af7d296-2edb-4027-8a28-7b44e39c1b8f",
