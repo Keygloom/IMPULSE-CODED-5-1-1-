@@ -305,8 +305,8 @@
         "layout": "left",
         "height": 550,
         "framed": true,
-        "parallax": true,
-        "parallax_direction": "left",
+        "parallax": false,
+        "parallax_direction": "top",
         "lazyload_images": true
       }
     },
