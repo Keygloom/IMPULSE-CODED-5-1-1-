@@ -73,6 +73,18 @@
         "divider": false
       }
     },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Women",
+        "home_featured_products": "bestsellers-2",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
     "3af7d296-2edb-4027-8a28-7b44e39c1b8f": {
       "type": "text-and-image",
       "settings": {
@@ -92,18 +104,6 @@
         "top_padding": true,
         "bottom_padding": true,
         "lazyload_images": true
-      }
-    },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Women",
-        "home_featured_products": "bestsellers-2",
-        "per_row": 4,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
       }
     },
     "scrolling_text_i6QHr4": {
@@ -362,10 +362,10 @@
   "order": [
     "slideshow",
     "rich-text",
-    "3af7d296-2edb-4027-8a28-7b44e39c1b8f",
     "featured-collection",
     "scrolling_text_i6QHr4",
     "580bc108-8f79-4c00-b080-103cccb091ef",
+    "3af7d296-2edb-4027-8a28-7b44e39c1b8f",
     "723a8f77-4c0d-4ef9-86de-d888090c48de",
     "32a99c62-e8f3-4b9d-afcd-d1543f4f73ee",
     "fc773646-0206-460f-a860-ec2b4a87f088",
