@@ -319,7 +319,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "You may also like",
-        "home_featured_products": "mens-bestsellers",
+        "home_featured_products": "womens-bestsellers",
         "per_row": 4,
         "rows": 1,
         "mobile_scrollable": true,
