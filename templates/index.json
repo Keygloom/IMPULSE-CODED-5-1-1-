@@ -458,7 +458,8 @@
         "text_block_9KQbrT"
       ],
       "custom_css": [
-        ".icon {font-size: 40px !important; /* Pas dit getal aan voor kleiner/groter */ width: 40px !important; height: 40px !important;}"
+        ".icon {font-size: 40px !important; /* Pas dit getal aan voor kleiner/groter */ width: 40px !important; height: 40px !important;}",
+        "h1,h2,h3 {font-size: 20px !important; line-height: 1.3 !important; font-weight: bold !important;}"
       ],
       "settings": {
         "title": "",
