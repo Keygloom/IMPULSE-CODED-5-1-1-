@@ -87,6 +87,7 @@
     },
     "scrolling_text_i6QHr4": {
       "type": "scrolling-text",
+      "disabled": true,
       "settings": {
         "text": "CLOSURE SALE IS ENDING -  ONLY TODAY: 70% OFF!",
         "link": "",
@@ -96,25 +97,6 @@
         "speed": 200
       }
     },
-    "rich_text_mcG7ER": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_yPUjXx": {
-          "type": "heading",
-          "settings": {
-            "title": "Julie & Mark Picks"
-          }
-        }
-      },
-      "block_order": [
-        "heading_yPUjXx"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
-    },
     "promo_grid_qVR8dU": {
       "type": "promo-grid",
       "blocks": {
@@ -122,8 +104,8 @@
           "type": "advanced",
           "settings": {
             "subheading": "",
-            "heading": "Women's sale",
-            "textarea": "NOW UP TO 70% OFF",
+            "heading": "Women",
+            "textarea": "",
             "cta_text1": "Shop NOW",
             "cta_link1": "shopify://collections/womens-bestsellers",
             "cta_text2": "",
@@ -143,8 +125,8 @@
           "type": "advanced",
           "settings": {
             "subheading": "",
-            "heading": "MEN'S SALE",
-            "textarea": "NOW UP TO 70% OFF",
+            "heading": "MEN",
+            "textarea": "",
             "cta_text1": "Shop NOW",
             "cta_link1": "shopify://collections/mens-bestsellers",
             "cta_text2": "",
@@ -491,7 +473,6 @@
     "rich-text",
     "featured-collection",
     "scrolling_text_i6QHr4",
-    "rich_text_mcG7ER",
     "promo_grid_qVR8dU",
     "featured_collections_HEgajF",
     "580bc108-8f79-4c00-b080-103cccb091ef",
