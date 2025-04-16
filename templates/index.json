@@ -356,9 +356,9 @@
     "background_image_text_4GyRpJ": {
       "type": "background-image-text",
       "settings": {
-        "subtitle": "over 20.000+",
-        "title": "Happy Customers",
-        "text": "<p>We take pride in serving over 20,000 satisfied customers, each finding joy and confidence in our products.</p>",
+        "subtitle": "",
+        "title": "30-Day Return Guarantee",
+        "text": "<p>We want you to feel confident with every purchase. Not quite right? No problem — return it within 30 days, no hassle, no stress.</p>",
         "button_label": "",
         "button_link": "",
         "image": "shopify://shop_images/Woman_from_shopping_raids_on_promotional_campaign.png",
