@@ -457,6 +457,9 @@
         "text_block_terYYF",
         "text_block_9KQbrT"
       ],
+      "custom_css": [
+        ".icon {font-size: 40px !important; /* Pas dit getal aan voor kleiner/groter */ width: 40px !important; height: 40px !important;}"
+      ],
       "settings": {
         "title": "",
         "align_text": "center",
