@@ -355,6 +355,9 @@
     },
     "background_image_text_4GyRpJ": {
       "type": "background-image-text",
+      "custom_css": [
+        "p.h3 {font-weight: bold !important;}"
+      ],
       "settings": {
         "subtitle": "",
         "title": "30-Day Return Guarantee",
