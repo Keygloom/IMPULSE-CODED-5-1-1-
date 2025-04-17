@@ -360,9 +360,9 @@
       ],
       "name": "t:sections.background-image-text.presets.large_image_with_text_box.name",
       "settings": {
-        "subtitle": "Impressive",
-        "title": "Large image with text box",
-        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>",
+        "subtitle": "",
+        "title": "30-Day Return Guarentee",
+        "text": "<p>We want you to feel confident with every purchase. Not quite right? No problem — return it within 30 days, no hassle, no stress.</p>",
         "button_label": "",
         "button_link": "",
         "image": "shopify://shop_images/mockup-of-a-brand-tag-placed-on-a-t-shirt-m31968.png",
