@@ -261,11 +261,30 @@
         "bg-color": "#fceadc"
       }
     },
+    "background_image_text_xqfKQk": {
+      "type": "background-image-text",
+      "name": "t:sections.background-image-text.presets.large_image_with_text_box.name",
+      "settings": {
+        "subtitle": "Australian fashion",
+        "title": "FROM THE HEART OF MELBOURNE",
+        "text": "<p>Discover timeless style inspired by Melbourne’s vibrant city spirit. From effortless essentials to modern silhouettes — we bring you chic fashion designed with love in Australia.</p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify://shop_images/melbourne-city-skyline-australia-with-blue-sky.jpg",
+        "layout": "left",
+        "height": 550,
+        "framed": false,
+        "parallax": true,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
     "text_columns_QHpb8C": {
       "type": "text-columns",
       "blocks": {
         "text_block_3FH4e7": {
           "type": "text_block",
+          "disabled": true,
           "settings": {
             "enable_image": true,
             "image": "shopify://shop_images/a-photorealistic-image-of-a-minimalist-f_mp-Aa8ErQ0S-rb3nVJSwmQ_vx6w_j9uQ_mLUdJ4AjUkyg.jpg",
@@ -641,6 +660,7 @@
     "main",
     "41b75bbb-8c34-4dbf-8a6b-bfb03ca94d34",
     "6d97ddc6-c989-459f-80bb-f7f81d55b37e",
+    "background_image_text_xqfKQk",
     "text_columns_QHpb8C",
     "sub",
     "text-and-image2",
