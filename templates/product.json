@@ -53,7 +53,6 @@
         },
         "9138406b-8d13-4499-973b-b70daca3a994": {
           "type": "custom",
-          "disabled": true,
           "settings": {
             "code": "{% render 'kopstorm-snippet-1' %}"
           }
