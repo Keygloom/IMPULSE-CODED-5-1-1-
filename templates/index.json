@@ -25,10 +25,10 @@
             "link_text_2": "",
             "color_accent": "#2e960a",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/a-photorealistic-image-of-a-minimalist-f_mp-Aa8ErQ0S-rb3nVJSwmQ_vx6w_j9uQ_mLUdJ4AjUkyg.jpg",
-            "image_mobile": "shopify://shop_images/a-photorealistic-image-of-a-minimalist-f_mp-Aa8ErQ0S-rb3nVJSwmQ_vx6w_j9uQ_mLUdJ4AjUkyg.jpg",
+            "image": "shopify://shop_images/girl-is-walking-around-city.jpg",
+            "image_mobile": "shopify://shop_images/girl-is-walking-around-city.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 24
+            "overlay_opacity": 32
           }
         }
       },
@@ -38,7 +38,7 @@
       "settings": {
         "section_height": "750px",
         "mobile_height": "auto",
-        "parallax": true,
+        "parallax": false,
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 7,
