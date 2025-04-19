@@ -267,18 +267,17 @@
         ".background-media-text__text .h3 {font-size: 16px !important; font-weight: !important;}",
         ".background-media-text__text .h5 {font-size: 12px !important; font-weight: normal !important; letter-spacing: 1px !important; text-transform: uppercase;}"
       ],
-      "name": "t:sections.background-image-text.presets.large_image_with_text_box.name",
       "settings": {
         "subtitle": "Australian fashion",
         "title": "FROM THE HEART OF MELBOURNE",
         "text": "<p>Discover timeless style inspired by Melbourne’s vibrant city spirit. From effortless essentials to modern silhouettes — we bring you chic fashion designed with love in Australia.</p>",
         "button_label": "",
         "button_link": "",
-        "image": "shopify://shop_images/melbourne-city-skyline-australia-with-blue-sky.jpg",
+        "image": "shopify://shop_images/a-stylish-clothing-store-with-the-sign-j_ATmsPY2KSUyqIHb2Vozi4w_8kMjC4DFS1K6TuPY-oGTOQ.jpg",
         "layout": "left",
         "height": 550,
         "framed": false,
-        "parallax": true,
+        "parallax": false,
         "parallax_direction": "top",
         "lazyload_images": true
       }
@@ -357,7 +356,6 @@
         ".background-media-text__text .h3 {font-size: 16px !important; font-weight: !important;}",
         ".background-media-text__text .h5 {font-size: 12px !important; font-weight: normal !important; letter-spacing: 1px !important; text-transform: uppercase;}"
       ],
-      "name": "t:sections.background-image-text.presets.large_image_with_text_box.name",
       "settings": {
         "subtitle": "",
         "title": "30-Day Return Guarentee",
