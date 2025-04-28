@@ -223,12 +223,12 @@
     "3af7d296-2edb-4027-8a28-7b44e39c1b8f": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/a-stylish-clothing-store-with-the-sign-j_ATmsPY2KSUyqIHb2Vozi4w_8kMjC4DFS1K6TuPY-oGTOQ.jpg",
+        "image": "shopify://shop_images/Untitled_design_39.png",
         "image_mask": "none",
         "image2_mask": "square",
         "subtitle": "",
         "title": "About us",
-        "text": "<p>From the heart of Melbourne, we bring you fashion that feels as good as it looks.<br/><br/>Every piece in our collection is carefully chosen for its timeless style, comfort, and quality.</p><p>We don’t just ship clothes — we share pieces we genuinely love.<br/><br/>Thanks for being part of our story. </p>",
+        "text": "<p>For 25 years, we brought timeless style to Melbourne and beyond.<br/><br/>Now, as we close our doors, we invite you to take home a piece of our story — fashion designed with love in Australia.</p>",
         "button_label": "",
         "button_link": "shopify://collections/kvinnor",
         "button_style": "primary",
