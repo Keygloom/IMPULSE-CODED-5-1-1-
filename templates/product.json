@@ -260,34 +260,6 @@
         "bg-color": "#fceadc"
       }
     },
-    "text_and_image_WUJEnd": {
-      "type": "text-and-image",
-      "disabled": true,
-      "custom_css": [
-        ".background-media-text__subtext {font-size: 14px !important; line-height: 1.5 !important;}",
-        ".background-media-text__text .h3 {font-size: 16px !important; font-weight: !important;}",
-        ".background-media-text__text .h5 {font-size: 12px !important; font-weight: normal !important; letter-spacing: 1px !important; text-transform: uppercase;}"
-      ],
-      "name": "t:sections.text-and-image.presets.image_with_text.name",
-      "settings": {
-        "image": "shopify://shop_images/Untitled_design_39_0a6115c0-693c-42a8-9477-021316dc158b.png",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "Australian fashion",
-        "title": "CLOSING AFTER 25 BEAUTIFUL YEARS",
-        "text": "<p>For 25 years, we brought timeless style to Melbourne and beyond.<br/><br/>Now, as we close our doors, we invite you to take home a piece of our story — fashion designed with love in Australia.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "center",
-        "image_width": "66",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
     "background_image_text_xqfKQk": {
       "type": "background-image-text",
       "custom_css": [
@@ -303,7 +275,7 @@
         "button_link": "",
         "image": "shopify://shop_images/Untitled_design_39_0a6115c0-693c-42a8-9477-021316dc158b.png",
         "layout": "left",
-        "height": 550,
+        "height": 450,
         "framed": false,
         "parallax": false,
         "parallax_direction": "top",
@@ -733,7 +705,6 @@
     "main",
     "41b75bbb-8c34-4dbf-8a6b-bfb03ca94d34",
     "6d97ddc6-c989-459f-80bb-f7f81d55b37e",
-    "text_and_image_WUJEnd",
     "background_image_text_xqfKQk",
     "text_columns_QHpb8C",
     "sub",
