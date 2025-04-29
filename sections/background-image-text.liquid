@@ -59,56 +59,55 @@
 <div class="background-media-text__spacer background-media-text--{{ section.settings.height }}"></div>
 
 <style>
-  /* Ensure the section is full-width */
-  .background-media-text--{{ section.id }} {
-    width: 100%;
-    max-width: 100%;
-    margin: 0 auto;
-    padding: 0;
-  }
+ .background-media-text {
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0;
+}
 
-  /* Make the container full-width with padding */
-  .background-media-text--{{ section.id }} .background-media-text__container {
-    width: 100%;
-    max-width: 100%;
-    padding: 0 2rem;
-    box-sizing: border-box;
-    position: relative;
-    overflow: hidden;
-  }
+.background-media-text .background-media-text__container {
+  width: 100%;
+  max-width: 100%;
+  padding: 0 2rem;
+  box-sizing: border-box;
+  position: relative;
+  overflow: hidden;
+}
 
-  /* Ensure the image fills the container */
-  .background-media-text--{{ section.id }} .image-fit.background-media-text__image--{{ section.id }} {
-    width: 80%;
-    height: 100%;
-    object-fit: cover;
-    position: absolute;
-    top: 0;
-    left: 0;
-    display: block;
-  }
+.background-media-text .image-fit.background-media-text__image {
+  width: 80%;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  display: block;
+}
 
-  /* Support for parallax */
-  .background-media-text--{{ section.id }} .parallax-container,
-  .background-media-text--{{ section.id }} .parallax-image {
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
-  }
+.background-media-text .parallax-container,
+.background-media-text .parallax-image {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
 
-  /* Remove any inherited constraints */
-  .index-section--flush.background-media-text--{{ section.id }} {
-    max-width: 100%;
-    padding: 0;
-    margin: 0;
-  }
+.index-section--flush.background-media-text {
+  max-width: 100%;
+  padding: 0;
+  margin: 0;
+}
 
-  /* Responsive adjustments */
-  @media screen and (max-width: 749px) {
-    .background-media-text--{{ section.id }} .background-media-text__container {
-      padding: 0 1rem;
-    }
+@media screen and (max-width: 749px) {
+  .background-media-text .background-media-text__container {
+    padding: 0 1rem;
   }
+  .background-media-text .image-fit.background-media-text__image {
+    width: 90%;
+  }
+}
 </style>
 
 
