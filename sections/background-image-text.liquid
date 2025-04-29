@@ -59,52 +59,54 @@
 <div class="background-media-text__spacer background-media-text--{{ section.settings.height }}"></div>
 
 <style>
- .background-media-text {
-  width: 100%;
-  max-width: 100%;
-  margin: 0 auto;
-  padding: 0;
-}
-
-.background-media-text .background-media-text__container {
-  width: 100%;
-  max-width: 100%;
-  padding: 0rem;
-  box-sizing: border-box;
-  position: relative;
-  overflow: hidden;
-}
-
-.background-media-text .image-fit.background-media-text__image {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  position: absolute;
-  top: 0;
-  left: 0;
-  display: block;
-  margin: 0 auto;
-}
-
-.background-media-text .parallax-container,
-.background-media-text .parallax-image {
-  width: 100%;
-  height: 100%;
-  overflow: hidden;
-  position: relative;
-}
-
-.index-section--flush.background-media-text {
-  max-width: 100%;
-  padding: 0;
-  margin: 0;
-}
-
-@media screen and (max-width: 749px) {
-  .background-media-text .background-media-text__container {
-    padding: 0 1rem;
+  .background-media-text {
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0;
   }
-}
+
+  .background-media-text .background-media-text__container {
+    width: 100%;
+    max-width: 100%;
+    padding: 0;
+    box-sizing: border-box;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .background-media-text .image-fit.background-media-text__image {
+    width: 80%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    display: block;
+  }
+
+  .background-media-text .parallax-container,
+  .background-media-text .parallax-image {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .index-section--flush.background-media-text {
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+  }
+
+  @media screen and (max-width: 749px) {
+    .background-media-text .image-fit.background-media-text__image {
+      width: 90%; /* Slightly wider on mobile for better visibility */
+      left: 50%;
+      transform: translateX(-50%);
+    }
+  }
 </style>
 
 
