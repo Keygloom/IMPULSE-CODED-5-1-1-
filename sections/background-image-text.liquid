@@ -76,13 +76,12 @@
   }
 
   .background-media-text .image-fit.background-media-text__image {
-    width: 80%;
+    width: 80%; /* 80% width as requested */
     height: 100%;
     object-fit: cover;
     position: absolute;
     top: 0;
-    left: 50%;
-    transform: translateX(-50%);
+    left: 0; /* Stick to the left side */
     display: block;
   }
 
@@ -102,9 +101,8 @@
 
   @media screen and (max-width: 749px) {
     .background-media-text .image-fit.background-media-text__image {
-      width: 90%; /* Slightly wider on mobile for better visibility */
-      left: 50%;
-      transform: translateX(-50%);
+      width: 90%; /* Slightly wider on mobile */
+      left: 0; /* Still left-aligned */
     }
   }
 </style>
