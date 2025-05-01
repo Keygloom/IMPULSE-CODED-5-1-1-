@@ -655,9 +655,9 @@
         "button_label": "",
         "button_link": "",
         "layout": "left",
-        "height": 550,
+        "height": 750,
         "framed": true,
-        "parallax": true,
+        "parallax": false,
         "parallax_direction": "top",
         "lazyload_images": true
       }
