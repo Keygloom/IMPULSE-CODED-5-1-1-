@@ -262,11 +262,7 @@
     },
     "background_image_text_xqfKQk": {
       "type": "background-image-text",
-      "custom_css": [
-        ".background-media-text__subtext {font-size: 14px !important; line-height: 1.5 !important;}",
-        ".background-media-text__text .h3 {font-size: 16px !important; font-weight: !important;}",
-        ".background-media-text__text .h5 {font-size: 12px !important; font-weight: normal !important; letter-spacing: 1px !important; text-transform: uppercase;}"
-      ],
+      "custom_css": [],
       "settings": {
         "subtitle": "Australian fashion",
         "title": "CLOSING AFTER 25 BEAUTIFUL YEARS",
